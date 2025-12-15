@@ -1,0 +1,24 @@
+{
+  "name": "trpc-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "api",
+    "www"
+  ],
+  "homepage": "https://github.com/D3C0RU5/trpc_xperiment_with_monorepo#readme",
+  "bugs": {
+    "url": "https://github.com/D3C0RU5/trpc_xperiment_with_monorepo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3C0RU5/trpc_xperiment_with_monorepo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
